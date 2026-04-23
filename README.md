@@ -6,7 +6,7 @@ This project explores listing distribution, pricing patterns, room type preferen
 
 ## Live Dashboard
 
-View on Tableau Public: ![Airbnb Dashboard Overview Tableau Public Image](https://public.tableau.com/views/Airbnb_17769354005890/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+View on Tableau Public: ![Tableau Static Preview](https://public.tableau.com/static/images/Ai/Airbnb_17769354005890/Dashboard1/1.png)
 ## Dashboard Preview
 
 ![Airbnb Dashboard Overview](screenshots/overview.png)
